@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accountants list" />
+      <item value="список бухгалтеров" />
+      <item value="добавление бухгалтеров в список" />
       <item value="внешне" />
       <item value="внутри" />
       <item value="не внутри проекта" />
@@ -19,7 +22,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="5" />
-        <entry key="RUSSIAN" value="5" />
+        <entry key="RUSSIAN" value="6" />
         <entry key="ROMANIAN" value="2" />
       </map>
     </option>
