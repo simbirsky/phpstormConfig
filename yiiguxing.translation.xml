@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="интерес" />
+      <item value="интересъ" />
+      <item value="consume" />
+      <item value="много запросов" />
+      <item value="много" />
       <item value="decree" />
       <item value="enrich" />
       <item value="accountants list" />
@@ -23,8 +28,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="5" />
-        <entry key="RUSSIAN" value="6" />
+        <entry key="ENGLISH" value="7" />
+        <entry key="RUSSIAN" value="7" />
         <entry key="ROMANIAN" value="2" />
       </map>
     </option>
