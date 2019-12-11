@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e9853679-98fa-4537-a8f5-2687e9bbe89b" name="systema" url="http://simbirskiy.vps.loc">
+        <fileTransfer host="simbirskiy.vps.loc" port="22" rootFolder="/home/www/sites" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
