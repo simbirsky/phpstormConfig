@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d97cad00-f481-449a-8ffc-7bb7e0d09574" name="simbirsky" url="http://80.87.195.190">
+        <fileTransfer host="80.87.195.190" port="22" rootFolder="/home/simbirsky/test/test-docker" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
