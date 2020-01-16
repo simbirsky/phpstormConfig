@@ -18,7 +18,9 @@
         </fileTransfer>
       </webServer>
       <webServer id="e4e30755-7c89-4a76-b748-3d50606bc9e7" name="vopros_local" url="http://192.168.10.10">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer host="192.168.10.10" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
       </webServer>
     </option>
   </component>
