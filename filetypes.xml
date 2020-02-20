@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="tpl" type="PHP" />
+      <mapping pattern="reload" type="PLAIN_TEXT" />
+      <mapping pattern="migrate" type="PLAIN_TEXT" />
+      <mapping pattern="vopros_settings" type="PLAIN_TEXT" />
+      <mapping ext="2019" type="PLAIN_TEXT" />
+      <removed_mapping ext="tpl" approved="true" type="Smarty" />
+      <removed_mapping ext="tpl" approved="true" type="Smarty" />
+    </extensionMap>
+  </component>
+</application>
