@@ -22,6 +22,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="5721a89e-aca4-4182-aa1b-1cafd798fcd1" name="app" url="http://simbirskiy.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
