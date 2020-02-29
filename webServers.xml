@@ -33,6 +33,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="47215669-93a4-477f-aab0-3686abdcf2b5" name="job.priority" url="http://us250.siteground.us">
+        <fileTransfer host="us250.siteground.us" port="21" rootFolder="/job">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
