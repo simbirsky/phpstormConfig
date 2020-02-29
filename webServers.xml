@@ -25,6 +25,14 @@
       <webServer id="5721a89e-aca4-4182-aa1b-1cafd798fcd1" name="app" url="http://simbirskiy.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="3680ddf8-0d1e-4e11-80ea-69b770477f22" name="priority" url="http://us250.siteground.us">
+        <fileTransfer host="us250.siteground.us" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
