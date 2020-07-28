@@ -6,6 +6,7 @@
       <mapping pattern="Make" type="PLAIN_TEXT" />
       <mapping pattern="migrate" type="PLAIN_TEXT" />
       <mapping pattern="vopros_settings" type="PLAIN_TEXT" />
+      <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="docker" type="PLAIN_TEXT" />
       <mapping ext="2019" type="PLAIN_TEXT" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
