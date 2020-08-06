@@ -1,0 +1,15 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="simbirskiy.vps.loc" id="e3833d3b-968b-4ddf-bfa3-b9fad6b3f100" port="22" customName="systema" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="systema" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="80.87.195.190" id="d2be5ff8-8035-407e-bfeb-6dd68a60c091" port="22" customName="simbirsky" nameFormat="CUSTOM">
+        <option name="customName" value="simbirsky" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.10.10" id="ebd53a34-77d5-4f47-9cd8-462b67c1ffef" port="22" customName="vopros_local" nameFormat="CUSTOM">
+        <option name="customName" value="vopros_local" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
