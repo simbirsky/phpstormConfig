@@ -9,12 +9,4 @@
     <lookup />
   </component>
   <component name="Instance" id="1c4dd8cf-f2cf-48fe-93a3-5deaebe24b21" version="2020.2.135" />
-  <component name="UsageLog">
-    <event name="CopyLinkToFile" place="EditorPopup" timestamp="2020-08-07T07:14:44.838180Z">
-      <attribute name="editor">true</attribute>
-      <attribute name="multipleLines">false</attribute>
-      <attribute name="multipleCarets">false</attribute>
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-  </component>
 </application>
