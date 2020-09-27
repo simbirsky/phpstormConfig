@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="tpl" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern="vopros_settings" type="PLAIN_TEXT" />
       <mapping pattern="reload" type="PLAIN_TEXT" />
       <mapping pattern="tokenUsecases" type="PLAIN_TEXT" />
