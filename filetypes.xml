@@ -11,6 +11,7 @@
       <mapping pattern="Make" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="docker" type="PLAIN_TEXT" />
+      <mapping ext="testing" type="PLAIN_TEXT" />
       <mapping ext="2019" type="PLAIN_TEXT" />
       <mapping ext="ini-production" type="PLAIN_TEXT" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
