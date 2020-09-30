@@ -2,6 +2,9 @@
   <action id="Git.CreateNewBranch">
     <keyboard-shortcut first-keystroke="ctrl meta n" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="shift meta alt down" />
   </action>
