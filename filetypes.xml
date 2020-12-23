@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="tpl" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
@@ -15,7 +15,6 @@
       <mapping ext="testing" type="PLAIN_TEXT" />
       <mapping ext="2019" type="PLAIN_TEXT" />
       <mapping ext="ini-production" type="PLAIN_TEXT" />
-      <removed_mapping ext="tpl" approved="true" type="Smarty" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
     </extensionMap>
   </component>
