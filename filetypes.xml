@@ -10,6 +10,7 @@
       <mapping pattern="tokenUsecases" type="PLAIN_TEXT" />
       <mapping pattern="migrate" type="PLAIN_TEXT" />
       <mapping pattern="sfdsf" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern="Make" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="docker" type="PLAIN_TEXT" />
