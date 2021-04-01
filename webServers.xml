@@ -2,43 +2,37 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="e9853679-98fa-4537-a8f5-2687e9bbe89b" name="systema" url="http://simbirskiy.vps.loc">
-        <fileTransfer host="simbirskiy.vps.loc" port="22" rootFolder="/home/www/sites" accessType="SFTP">
+        <fileTransfer rootFolder="/home/www/sites" accessType="SFTP" host="simbirskiy.vps.loc" port="22" sshConfigId="e3833d3b-968b-4ddf-bfa3-b9fad6b3f100" sshConfig="systema">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="d97cad00-f481-449a-8ffc-7bb7e0d09574" name="simbirsky" url="http://80.87.195.190">
-        <fileTransfer host="80.87.195.190" port="22" rootFolder="/home/simbirsky/test/test-docker" accessType="SFTP">
+        <fileTransfer rootFolder="/home/simbirsky/test/test-docker" accessType="SFTP" host="sro-system.vps.loc" port="22" sshConfigId="d2be5ff8-8035-407e-bfeb-6dd68a60c091" sshConfig="simbirsky">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="e4e30755-7c89-4a76-b748-3d50606bc9e7" name="vopros_local" url="http://192.168.10.10">
-        <fileTransfer host="192.168.10.10" port="22" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer accessType="SFTP" host="192.168.10.10" port="22" sshConfigId="ebd53a34-77d5-4f47-9cd8-462b67c1ffef" sshConfig="vopros_local" />
       </webServer>
       <webServer id="5721a89e-aca4-4182-aa1b-1cafd798fcd1" name="app" url="http://simbirskiy.com">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="3680ddf8-0d1e-4e11-80ea-69b770477f22" name="priority" url="http://us250.siteground.us">
         <fileTransfer host="us250.siteground.us" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="47215669-93a4-477f-aab0-3686abdcf2b5" name="job.priority" url="http://us250.siteground.us">
-        <fileTransfer host="us250.siteground.us" port="21" rootFolder="/job">
+        <fileTransfer rootFolder="/job" host="us250.siteground.us" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>
