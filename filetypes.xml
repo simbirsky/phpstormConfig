@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="qq" type="AUTO_DETECTED" />
       <mapping pattern="splitsh-lite" type="AUTO_DETECTED" />
       <mapping ext="tpl" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
