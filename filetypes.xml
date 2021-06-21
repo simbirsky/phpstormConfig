@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="gg" type="AUTO_DETECTED" />
       <mapping pattern="qq" type="AUTO_DETECTED" />
+      <mapping pattern="task" type="AUTO_DETECTED" />
       <mapping pattern="models" type="AUTO_DETECTED" />
       <mapping pattern="splitsh-lite" type="AUTO_DETECTED" />
       <mapping ext="tpl" type="PHP" />
