@@ -2,8 +2,26 @@
   <component name="RemoteServers">
     <remote-server name="Docker" type="docker">
       <configuration>
+        <option name="apiUrl" value="localhost" />
+        <option name="certificatesPath" value="$USER_HOME$/tehnoprogress/vopros/docker" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker2" type="docker">
+      <configuration>
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
         <option name="certificatesPath" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="/Users" />
+              <option name="virtualMachinePath" value="/Users" />
+            </DockerPathMappingImpl>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="$USER_HOME$/tehnoprogress/vopros/docker" />
+              <option name="virtualMachinePath" value="./" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
       </configuration>
     </remote-server>
   </component>
